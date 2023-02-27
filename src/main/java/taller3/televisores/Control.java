@@ -8,10 +8,10 @@ public class Control {
         tv.setControl(this);
     }
     public void TurnOn(){
-        tv.TurnOn();
+        tv.turnOn();
     }
     public void TurnOff(){
-        tv.TurnOff();
+        tv.turnOff();
     }
     public void CanalUp(){
         tv.canalUp();

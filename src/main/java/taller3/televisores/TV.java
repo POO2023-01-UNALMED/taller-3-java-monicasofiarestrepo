@@ -52,10 +52,10 @@ public class TV {
     public static int getNumTV(){
         return numTV;
     }
-    public void TurnOn (){
+    public void turnOn (){
         this.estado = true;
     }
-    public void TurnOff(){
+    public void turnOff(){
         this.estado = false;
     }
     public boolean getEstado(){
